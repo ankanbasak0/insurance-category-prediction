@@ -11,8 +11,8 @@ This project predicts the **insurance premium category** based on user details u
 ---
 <table>
   <tr>
-    <td><img src="image1.png" alt="Image 1" width="400"/></td>
-    <td><img src="image2.png" alt="Image 2" width="400"/></td>
+    <td><img src="Image1.png" alt="Image 1" width="400"/></td>
+    <td><img src="Image2.png" alt="Image 2" width="400"/></td>
   </tr>
 </table>
 
